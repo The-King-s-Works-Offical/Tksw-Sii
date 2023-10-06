@@ -5,6 +5,6 @@ Simulator games developed by Scs Software for users.
 
 # Ready Versions of the Application
 
-| _Version : Lastest_ | **TKSW Sii App** | [Download](https://github.com/The-King-s-Works-Offical/Tksw-Sii/releases/latest) |
+| _Latest_ | **TKSW Sii App** | [Download](https://github.com/The-King-s-Works-Offical/Tksw-Sii/releases/latest) |
 |------|------------------|------------------------------------------------------------------------------------|
 
