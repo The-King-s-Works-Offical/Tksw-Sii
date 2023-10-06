@@ -5,7 +5,6 @@ Simulator games developed by Scs Software for users.
 
 # Ready Versions of the Application
 
-| _v1.0_ | **User Select Mode** | [Download](https://github.com/murselsen/Sii_Decrypt_Console_App/releases/tag/v1.0) |
+| _Version : Lastest_ | **TKSW Sii App** | [Download](https://github.com/The-King-s-Works-Offical/Tksw-Sii/releases/latest) |
 |------|------------------|------------------------------------------------------------------------------------|
-| _v2.0_ | **Game Select Mode** | [Download](https://github.com/murselsen/Sii_Decrypt_Console_App/releases/tag/v2.0)                                                                       |
 
