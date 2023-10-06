@@ -1,4 +1,4 @@
-# Sii_Decrypt_Console_App
+# TKSW Sii App
 
 It is a script that I have developed to decrypt the .sii extension files of the Euro Truck Simulator 2 & American Truck
 Simulator games developed by Scs Software for users.
